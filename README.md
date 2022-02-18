@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ReactJS.
+- 🌱 Spending time on grabbing new skills.
 
 <!--
 **Mr-Anurag-Gupta/Mr-Anurag-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
